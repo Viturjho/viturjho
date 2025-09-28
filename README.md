@@ -12,7 +12,7 @@ Atualmente trabalho na recepção de uma clínica, mas estou focado em construir
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=joaovitorguedes&show_icons=false&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -28,3 +28,6 @@ Atualmente trabalho na recepção de uma clínica, mas estou focado em construir
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
 </P>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-g-25295920a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" alt="Meu Perfil do LinkedIn" />
+</a>
